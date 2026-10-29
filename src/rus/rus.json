@@ -12,10 +12,7 @@
   "hero": {
     "greeting": "Привет, я",
     "name": "Томаш Гайда",
-    "role": "Front-end разработчик / UI дизайнер",
-    "jokeLine1": "это не моё фото,",
-    "jokeLine2": "но я очень надеюсь",
-    "jokeLine3": "сделать точно такое же"
+    "role": "Front-end разработчик / UI дизайнер"
   },
   "banner": {
     "title": "IT BERRIES",

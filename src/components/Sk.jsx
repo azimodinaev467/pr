@@ -218,16 +218,6 @@ export default function Sk() {
                 alt="Tomasz Gajda" 
                 className="max-h-[460px] sm:max-h-[500px] md:max-h-[540px] w-auto object-contain select-none" 
               />
-              
-              <div className="absolute right-4 bottom-6 sm:right-8 sm:bottom-10 max-w-[150px] pointer-events-none">
-                <p className={`text-[10px] sm:text-[11px] leading-tight font-medium text-center transition-colors duration-300 ${
-                  isDark ? 'text-gray-300' : 'text-gray-800'
-                }`}>
-                  {t('hero.jokeLine1')}<br />
-                  {t('hero.jokeLine2')}<br />
-                  {t('hero.jokeLine3')}
-                </p>
-              </div>
             </div>
           </div>
         </div>

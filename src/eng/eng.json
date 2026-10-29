@@ -12,10 +12,7 @@
   "hero": {
     "greeting": "Hi, I am",
     "name": "Tomasz Gajda",
-    "role": "Front-end Developer / UI Designer",
-    "jokeLine1": "this is not my photo,",
-    "jokeLine2": "but I dearly hope to",
-    "jokeLine3": "get one just like this"
+    "role": "Front-end Developer / UI Designer"
   },
   "banner": {
     "title": "IT BERRIES",
